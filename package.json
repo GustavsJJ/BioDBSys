@@ -8,7 +8,7 @@
     "start": "node src/index.js",
     "bundle": "esbuild src/index.js --bundle --platform=node --target=node10.4 --outfile=dist/biodbsys.js",
     "package": "pkg dist/biodbsys.js --targets node12-win-x64",
-    "build": "npm run bundle && npm run package",
+    "build": "npm install && npm run bundle && npm run package",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

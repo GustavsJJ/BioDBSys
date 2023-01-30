@@ -1,0 +1,37 @@
+LOCUS       CP000002
+REFERENCE   1
+  AUTHORS   Jakobsons
+ORIGIN
+        1 atggccgcgg acaatccgga agagggcagg tcgaaagcga cgtcacgcca gatggcgctc
+       61 gcgctcttcg aagacatgtt cgatcagggg ctgcgcatca atgaggccaa tcgcgagatc
+      121 ggttatcagc gcaacgattt cttcaccgaa attgtcaaca tggggctgcc ggcgcggcgc
+      181 tttctcgatg ccgcatactt catcgtcgcg caggagaccg agcagcgcga tcagtacgac
+      241 gtcgagctga actacttcaa gtggctgatg cgttatgaca gccgcaatct caagcatttg
+      301 cgcacgatcg ccgacgaagc gcagaacgct aaggtccgcg tgacgaatac gcctgcgaac
+      361 cgcgatccca atgaagacga tctgtgggtg caagtccagc tgatcggtat ggtcggtttt
+      421 catcgcggac gtatgcgttt cgacgtccat ccgcggctgg tgccgcatat ccgcgatccc
+      481 cagaaatcgc actggctgag cttgcgcatt tccaccgcgt tcacgcgcag tctcgcgcgt
+      541 gcgatttatg acaaggtctt gccgcatgtg ccagcgggac gcacggactg gatccagctc
+      601 gaggaaatgc gcaactggcc cggcaaaatg ggcgcgaacg ccgcgatctt caaatacttc
+      661 aagcgcgatt ggctcgagcc agcggtgcgc gaaatcaacg aagtgtcgga cgtcgagttg
+      721 tcgtacgaga cgcgcactgc atcgacgacg tcgaagaaaa tcgaccgcat ccggttcctg
+      781 ctcaagcgca aggacacggc cgacgcggta ctcgccagcc tcgcggacgc gagccatctg
+      841 tacaagattc tcaccgacga attcgggctg tcgaccaacc agttcagcga gatttcggag
+      901 aaccgcgagc tctggaccga cgaacgcatc cagcaggccg tcgaatacac gcgtttcagg
+      961 atcaagcgcg gccaggtcaa gaagagcccc gcgggttatc tgatgcgtgc gctacgcgac
+     1021 aactggaaga tctcggacgc cgagcgcacg atggtcgacg tgcaggccaa actgctcgcc
+     1081 gacgaagcgc aggaacaggc ggtcaagacc gaaacgagaa agaccgtggc gcacagcatc
+     1141 gcgacgcgcg aggaagaagt gcgcgcgcgc atgaacgagg attcgcgcaa gggccgtgac
+     1201 catttcaatg ccgccgatgc aaagacgcgc aaggaactga tgcacgcgtg gacgacatcg
+     1261 cgcgaaggca agctgatgct acgtcgaatg aagctcgaac cgtcgaccgt caccgaagat
+     1321 gcgatcttcg cgaataccga gctggtctgg tatctggggc agttcgtgtt cggccggatg
+     1381 aacgcggccc gcgcggcggc gtgaagcgag ccggaagaga cctgggcacc aagcacgctc
+     1441 agaacgaacc gactagcgag cccagcacga ttaccaccac cagcgcgaga agcgcgccga
+     1501 gaatcgcgac gatcacgatg tcgcgatagc tttcgcggtg cgtcgagccg cataccgcaa
+     1561 gcagcgtcac cactgcgccg ttatgcggca ggctgtcgag cgtgccggag gaaatcacgg
+     1621 cgacccgatg cagcagcgcg gggtcgatgc cgtattgcgc ggccagttgc agataggtgc
+     1681 tgccgagcgc atcgagcgcg atggtgagac cgccggaggc cgacccggtc aagcccgcga
+     1741 gcagattagt ggcgaccgcg agcgatacga gcggaccacc gccgacgccg agcacccatt
+     1801 cgcgcaccag cgcgaacgcg ggtagggcgg cgatcaccgc gccatagccg accagactgg
+     1861 cgacgctcag caccggcagc accgatgcat tcgcgcccgc atcgatcgtc tcgcgcagcg
+//
