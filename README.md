@@ -20,7 +20,7 @@ There are two ways how you can launch the program:
 
   `npm run build`
   
-  This will create a `.exe` file for Windows x64 architecture which can be launched.
+  However you will need to have `pkg` dependency installed globally for this to work. This will create a `.exe` file for Windows x64 architecture which can be launched.
 
 ## Description of actions
 
